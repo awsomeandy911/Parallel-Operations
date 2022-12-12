@@ -1,0 +1,11 @@
+# Ignore output files
+*.o
+
+# Ignore data outputted
+*.csv
+
+# Ignore compiled executables
+*.x
+
+# Ignore generated charts
+*.png
