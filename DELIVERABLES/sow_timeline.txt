@@ -1,0 +1,37 @@
+CS 4473/5473
+Due: Friday, Dec 2
+Nicholas Babb, Matthew Carroll, Andy Le
+
+---The group’s timeline for the project is as follows---
+
+Begin work on the assignment November 17th
+    meeting with team members to determine the challenges of the project,
+    creating the files as specified in the pdf,
+    discerning the intended functions of the provided programs by reading through the programming,
+    and establishing the challenges that must be overcome.
+    Once this has been done, team members will decide what tasks must be done and assign them
+    based on individual preferences and familiarity with the functions, splitting them up as appropriate.
+
+The team will meet again on November 22nd
+    to determine what progress has been made on the assignments provided
+    and to address any concerns that may be had regarding the progress made.
+    Work can continue over the then-upcoming Thanksgiving break if necessary,
+    but this will be discussed given the nature of the holiday likely requiring travel.
+
+The team will meet again November 29th
+    to further verify progress, and determine what additional days they should meet on to complete the project.
+    By this point, ideally the programming portion of the project will have been completed,
+    with the writeup remaining to be completed.
+
+On December 1st,
+    the team will meet once again to work on the writeup for the lab,
+    providing their observations and experiences with the lab,
+    and taking information from the coding as necessary to further support their analysis.
+    This work will preferably be concluded December 1st,
+    but may run into December 2nd depending on the progress made.
+
+December 2nd is the due date for the project,
+    and as such, all work must be turned in no later than this date.
+
+Updated due date for lab, December 9th,
+    and as such, all work must be turned in no later than this date.

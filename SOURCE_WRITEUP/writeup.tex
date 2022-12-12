@@ -1,0 +1,24 @@
+\documentclass{article}
+\begin{document}
+Your writeup should make clear how your work relates to the material covered in class. Specifically, your selected variants and writeup should use and relate to SIMD
+parallelization, blocking/striding for caches, low level optimizations, and specilization to cor-
+ner cases. The writeup should be a well written document that includes, performances plots
+for each variant and the following sections for each of the three operations:
+\\ \\
+
+Overview For each operation answer the following questions: What is the problem you are
+trying to solve? What are the pain points in this problem? How do you plan to solve
+this? And how does this relate back to the material covered in class.
+\\ \\
+
+Refinements For each variant of each operations answer the following questions: What did
+you change between each variant? What should we expect to see in the results and why?
+Include performance plots, what do the results show? What interesting features should
+we note in the plot? What would you do to improve these result?
+\\ \\
+
+Operation TRANSPOSE: The Operation of Transpose is a concept that deals with the matrix operations. The transpose of a matrix is obtained by switching the row/column indices and vice versa.  The problem it solves can relate to the topic of matrix multiplication. Let’s say we want to multiply two matrices A \& B, we would have to traverse one of them in a way that's very slow, either row-major or column-major. If we used the transpose operation on one matrix, then traversing both matrices would lead to the fastest way that best utilizes caches. Some pain points that we are experiencing in this problem is trying to find multiple variants that would give us an optimized form of the transpose operation. A couple plans we’ve thought of when trying to solve this were multi-threading the existing algorithm, modifying the base algorithm, and utilization or blocking/striding of the caches. This operation relates back to the material covered in class as we have talked extensively about matrix operations and their relationship to parallelization.
+\\ \\
+
+Operation STENCILS:
+\end{document}
